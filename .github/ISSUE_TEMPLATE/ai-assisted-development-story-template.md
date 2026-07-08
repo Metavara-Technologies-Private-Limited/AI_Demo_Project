@@ -46,7 +46,7 @@ Describe the business scenarios and use cases that must be supported by the impl
 
 | Field Name | Data Type (String/Text/Number/Boolean/Date/DateTime/Enum/List) | Data Length | Mandatory/Optional | Field Validations | Error Messages |
 |---|---|---|---|---|---|
-| Login with e-Signet | Button | - | - | Always enabled | - |
+| Login with MVT| Button | - | - | Always enabled | - |
 
 ### Non-Functional Requirements (As Applicable)
 Describe any backward compatibility, browser compatibility, API compatibility, platform compatibility, or integration compatibility requirements that must be maintained.
